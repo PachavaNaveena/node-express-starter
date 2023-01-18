@@ -4,6 +4,4 @@ export {default as NotFoundError} from './RecordNotFoundError'
 
 export {default as ErrorHandler} from './ErrorHandler'
 
-export {default as ContentTypeError} from './ContentTypeError'
-
 export {default as AuthenticationError} from './AuthenticationError'
